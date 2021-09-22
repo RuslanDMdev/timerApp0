@@ -1,0 +1,6 @@
+framework module Pods_SFERAtest {
+  umbrella header "Pods-SFERAtest-umbrella.h"
+
+  export *
+  module * { export * }
+}
