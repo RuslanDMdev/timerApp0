@@ -14,5 +14,5 @@ Timer(Приложение таймер)
 * Удаление таймера по ячейке
 * Проверка на введение строковых данных в поле времени таймера
 * Проверка на пустой ввод
-![Simulator Screen Shot - iPhone 12 - 2022-09-01 at 00 41 46](https://user-images.githubusercontent.com/91013665/187790549-264cf45e-a4e0-44c4-8bab-c5f16f3e2848.png)
-![Simulator Screen Shot - iPhone 12 - 2022-09-01 at 00 43 02](https://user-images.githubusercontent.com/91013665/187790590-9309d859-b0aa-4c80-b106-6bfbaacac6dd.png)
+<img width="334" alt="Снимок экрана 2022-09-01 в 00 45 31" src="https://user-images.githubusercontent.com/91013665/187790825-4c07f413-045c-44e1-8e7c-cebaafdcacf5.png">
+<img width="334" alt="Снимок экрана 2022-09-01 в 00 45 10" src="https://user-images.githubusercontent.com/91013665/187790845-857ff5dc-004d-4505-bfb8-6f4575da5ec6.png">
